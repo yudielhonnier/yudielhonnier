@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yudielhonnier
 - 👀 I’m interested in learning and develop app and web aplications 
-- 🌱 I’m currently developing in CEGEL UCI
+- 🌱 I graduated as a software engineer at UCI in 2018
 - 💞️ I’m looking to collaborate on any company where my knowledge is useful
 - 📫 How to reach me (www.linkedin.com/in/yudiel-robert-garcia-6b66871bb)
 
